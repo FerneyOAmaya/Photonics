@@ -12,6 +12,6 @@ Se incluyen los siguientes temas:
 El propósito es comprender los efectos de la propagación de ondas electromagnéticas a través de diferentes tipos de medios.
 
 En esta sección se tienen las siguientes ayudas didácticas:
-1. [Campo electromagnético](https://nbviewer.jupyter.org/github.com/FerneyOAmaya/Photonics/blob/master/EMWavePropagation/1_CampoElectrico.ipynb
+1. [Campo electromagnético](https://nbviewer.jupyter.org/github/FerneyOAmaya/Photonics/blob/master/EMWavePropagation/1_CampoElectrico.ipynb)
 
-2. [Propagación en diferentes medios](https://nbviewer.jupyter.org/github.com/FerneyOAmaya/Photonics/blob/master/EMWavePropagation/1_MediosElectricos.ipynb
+2. [Propagación en diferentes medios](https://nbviewer.jupyter.org/github/FerneyOAmaya/Photonics/blob/master/EMWavePropagation/1_MediosElectricos.ipynb)

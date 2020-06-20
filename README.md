@@ -25,6 +25,6 @@ En esta sección se tienen las siguientes ayudas didácticas:
 El propósito es comprender los efectos de la propagación a través de las líneas de transmisión.
 
 En esta sección se tienen las siguientes ayudas didácticas:
-- [Campo electromagnético](https://nbviewer.jupyter.org/github/FerneyOAmaya/Photonics/blob/master/EMWavePropagation/Fasores.ipynb)
+- [Fasores con numpy](https://nbviewer.jupyter.org/github/FerneyOAmaya/Photonics/blob/master/EMWavePropagation/Fasores.ipynb)
 
 

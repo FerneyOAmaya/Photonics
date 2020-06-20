@@ -7,11 +7,16 @@ Se incluyen los siguientes temas:
 - Principios de fotónica
 - Aplicaciones de fotónica
 
+Un buen resumen de los aspectos básicos de Python:
+0. [Introducción a Python](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/0_Python.ipynb)
+
 ## 1. Propagación de ondas electromagnéticas
 
 El propósito es comprender los efectos de la propagación de ondas electromagnéticas a través de diferentes tipos de medios.
 
 En esta sección se tienen las siguientes ayudas didácticas:
-1. [Campo electromagnético](https://nbviewer.jupyter.org/github/FerneyOAmaya/Photonics/blob/master/EMWavePropagation/1_CampoElectrico.ipynb)
+- [Campo electromagnético](https://nbviewer.jupyter.org/github/FerneyOAmaya/Photonics/blob/master/EMWavePropagation/CampoElectrico.ipynb)
 
-2. [Propagación en diferentes medios](https://nbviewer.jupyter.org/github/FerneyOAmaya/Photonics/blob/master/EMWavePropagation/1_MediosElectricos.ipynb)
+- [Propagación en diferentes medios](https://nbviewer.jupyter.org/github/FerneyOAmaya/Photonics/blob/master/EMWavePropagation/MediosElectricos.ipynb)
+
+- [Fasores en numpy](https://nbviewer.jupyter.org/github/FerneyOAmaya/Photonics/blob/master/EMWavePropagation/Fasores.ipynb) 

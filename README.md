@@ -16,7 +16,7 @@ El propósito es comprender los efectos de la propagación de ondas electromagn�
 En esta sección se tienen las siguientes ayudas didácticas:
 - [Campo eléctrico](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/CampoElectrico.ipynb)
 
-- [Reflexión y refracción](https://nbviewer.jupyter.org/github/FerneyOAmaya/Photonic/blob/master/ReflexionRefraccion.ipynb)
+- [Reflexión y refracción](https://nbviewer.jupyter.org/github/FerneyOAmaya/Photonics/blob/master/ReflexionRefraccion.ipynb)
 
 
 ## 2. Propagación a través de fibras ópticas
